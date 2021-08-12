@@ -1,0 +1,8 @@
+----------------------------------------------------------------------------------------------------------------------------------
+You won´t need all requirements for everything, but if you want to do most things, i recommend installing all the programs.
+
+Windows: Dnspy, 7zip or winrar, ida, gihdra, HxD, VisualStudio, Visual Studio Code, File Explorer, DotPeek, 3uTools, iTunes, iCloud, Altserver, Sideloady, AssetStudioGUI, UnityAssetsBundleExtractor and Chrome
+macOS: Checkra1n/PongoOS, iBoot64Patcher, img4, img4tool, homebrew, xcode, xcode commandline, CocoaPods, Altserver, Altdeploy, Visual Studio Code and Chrome
+
+
+This will get better.. will make script to auto detect if installed, when not it will auto download and install them
